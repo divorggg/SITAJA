@@ -95,7 +95,7 @@ fun MainApp(viewModel: MainViewModel) {
                             )
 
                             Text(
-                                text = "SITAJA",
+                                text = "SIDAS",
                                 style = MaterialTheme.typography.titleLarge,
                                 color = Color.White // penting karena background gelap
                             )

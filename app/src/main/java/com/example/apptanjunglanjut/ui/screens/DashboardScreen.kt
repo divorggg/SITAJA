@@ -86,13 +86,13 @@ fun DashboardScreen(viewModel: MainViewModel) {
                             )
                         )
                         Text(
-                            text = "Selamat datang di Sistem Informasi\nTanjung Lanjut (SITAJA).",
+                            text = "Selamat datang di Sistem Informasi\nDanau Tangkas (SIDAS).",
                             style = MaterialTheme.typography.bodyMedium.copy(
                                 color = Color.White
                             )
                         )
                         Text(
-                            text = "Kelola dan pantau keuangan desa Anda secara mudah dan real-time.",
+                            text = "Kelola dan pantau keuangan  Anda secara mudah dan real-time.",
                             style = MaterialTheme.typography.bodySmall.copy(
                                 color = Color.White
                             )
